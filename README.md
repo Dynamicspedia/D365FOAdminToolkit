@@ -31,6 +31,7 @@ Please review the provided D365FO Admin Toolkit Overview PDF documentation locat
   
 # Features in Development
 - Auto disable D365FO users when AAD/Entra user is disabled
+- Entra ID group enhancements
 
 # Future Features
 To submit a new feature request or to see the current feature requests visit: https://d365fo-admin-toolkit.canny.io/
@@ -41,6 +42,8 @@ https://github.com/FH-Inway
 https://github.com/jatomas
 
 https://github.com/Alireza-Eshaghzadeh
+
+https://github.com/Dynamicspedia
 
 https://github.com/JoPe72
 
